@@ -1,7 +1,6 @@
-/*UC6-
+/*UC7-
 store daily wages along with total wages
 */
-//UC7
 const IS_PART_TIME = 1;
 const IS_FULL_TIME = 2;
 const PART_TIME_HOURS = 4;
